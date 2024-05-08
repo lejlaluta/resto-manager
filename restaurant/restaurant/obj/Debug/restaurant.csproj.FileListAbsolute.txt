@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\bin\Debug\restaurant.exe.config
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\bin\Debug\restaurant.exe
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\bin\Debug\restaurant.pdb
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\obj\Debug\restaurant.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\obj\Debug\restaurant.Properties.Resources.resources
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\obj\Debug\restaurant.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\obj\Debug\restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\obj\Debug\restaurant.csproj.CopyComplete
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\obj\Debug\restaurant.exe
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\obj\Debug\restaurant.pdb
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\obj\Debug\restaurant.Category.resources
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\obj\Debug\restaurant.Users.resources
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\obj\Debug\restaurant.Items.resources
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\obj\Debug\restaurant.billing.resources
+C:\Users\Admin\Desktop\Sem.III\OOP\restaurant\restaurant\obj\Debug\restaurant.Login.resources
